@@ -9,7 +9,7 @@ const HeaderWithoutMenu = () => {
         <View style={styles.headerContainer}>
             <Image source={logoOdpv} style={styles.imageLogo}></Image>
 
-            <Link href='/home'>
+            <Link href='/'>
                 <Image source={menu} style={styles.menuIcon}></Image>
             </Link>
         </View>
