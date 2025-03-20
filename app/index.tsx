@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
         height: 50,
         borderRadius: 10,
         paddingLeft: 10,
-        width: "350",
+        width: 350,
     },
     smallBox: {
         width: 25,
